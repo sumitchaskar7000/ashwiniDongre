@@ -1,0 +1,137 @@
+/* Entrance and scroll transforms deliberately live on different elements. */
+.hero-home { background: #000; }
+.hero-scene,
+.hero-image-entrance { position: absolute; inset: 0; }
+.hero-image-entrance { overflow: hidden; }
+.hero-image-parallax { position: absolute; inset: -3% 0; }
+.hero-image-parallax > .picture { position: absolute; inset: 0; }
+.hero-image-parallax img { animation: none; }
+.hero-title-position {
+  position: absolute;
+  bottom: 55px;
+  left: var(--gutter);
+  right: var(--gutter);
+}
+.hero-title { position: static; }
+
+.brand-preloader {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: #000;
+  color: #fff;
+  /* CSS backup also works when hydration itself fails. */
+  animation: uncover-fallback 0s var(--intro-fail-safe, 6s) forwards;
+}
+.preloader-word {
+  display: flex;
+  white-space: pre;
+  font-size: 64px;
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.07em;
+  transform: scale(var(--brand-scale, 2.5));
+  transform-origin: center;
+}
+.preloader-character {
+  display: inline-block;
+  flex: none;
+  opacity: 0;
+  transform: translateY(var(--brand-character-y, -50px));
+}
+[data-intro-entrance] { animation: hero-fallback 0s var(--intro-fail-safe, 6s) forwards; }
+@keyframes uncover-fallback { to { visibility: hidden; pointer-events: none; } }
+@keyframes hero-fallback { to { opacity: 1; transform: none; } }
+
+.image-strip > .image-strip-track {
+  display: flex;
+  width: max-content;
+  gap: 0;
+  animation: studio-ticker 36s linear infinite;
+}
+.image-strip-group {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  gap: 18px;
+  padding-right: 18px;
+}
+.image-strip-group > .picture { flex-shrink: 0; }
+.image-strip-group > .picture:nth-child(3n+2) { margin-top: 0; }
+.image-strip-group > .picture:nth-child(even) { margin-top: 32px; }
+.image-strip[data-running="false"] .image-strip-track { animation-play-state: paused; }
+@keyframes studio-ticker { to { transform: translateX(-50%); } }
+
+.selected { overflow: visible; }
+.project-stage { display: grid; position: relative; isolation: isolate; }
+.project-backdrop {
+  grid-area: 1 / 1;
+  position: sticky;
+  top: 72px;
+  height: calc(100svh - 72px);
+  align-self: start;
+  display: grid;
+  place-items: center;
+  margin: 0;
+  width: 100%;
+  min-width: 0;
+  font-size: clamp(80px, 11.6vw, 220px);
+  z-index: 0;
+}
+.staggered {
+  grid-area: 1 / 1;
+  align-self: start;
+  margin: 0;
+  row-gap: 125px;
+  z-index: 1;
+}
+.staggered > div { min-width: 0; }
+.staggered > div:nth-child(even) { translate: none; margin-top: 200px; }
+.staggered > div:nth-child(2) { width: 88%; justify-self: end; }
+.staggered > div:nth-child(3) { width: 90%; margin-top: 0; }
+.staggered > div:nth-child(4) { margin-top: 135px; }
+.selected .all-works { margin-top: 90px; }
+
+@media (min-width: 1680px) {
+  .staggered { row-gap: 150px; }
+}
+@media (max-width: 1199px) {
+  .hero-title-position { bottom: 65px; }
+  .staggered { row-gap: 85px; }
+  .staggered > div:nth-child(even) { margin-top: 130px; }
+}
+@media (max-width: 809px) {
+  .preloader-word { font-size: clamp(32px, 8vw, 48px); }
+  .hero-title-position { bottom: 70px; left: 19px; right: 19px; }
+  .hero-image-parallax { inset: -2% 0; }
+  .image-strip-group { gap: 12px; padding-right: 12px; }
+  .project-stage { display: block; }
+  .project-backdrop { display: none; }
+  .staggered { row-gap: 40px; }
+  .staggered > div:nth-child(n) { margin: 0; width: 100%; translate: none; }
+  .selected .all-works { margin-top: 50px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .brand-preloader { display: none !important; }
+  .hero-entrance { transform: none !important; opacity: 1 !important; }
+  .hero-scene { opacity: 1 !important; }
+  .hero-image-parallax { transform: none !important; }
+  .image-strip-track { animation: none !important; transform: none !important; }
+  .mission h2 span { color: #171717 !important; }
+}
+
+/* Opaque curtain, without the menu's former dimming shadow. */
+.route-curtain{
+  position:fixed;
+  inset:0;
+  z-index:9000;
+  background:#eee9e1;
+  transform:translateY(100%);
+  pointer-events:auto;
+  box-shadow:none;
+  animation:uncover-fallback 0s var(--curtain-deadline,5s) forwards;
+}
+@media(prefers-reduced-motion:reduce){.route-curtain{display:none!important}}

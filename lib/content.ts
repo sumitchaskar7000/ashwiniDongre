@@ -1,13 +1,81 @@
-export const studio = { name: 'Revana', email: 'hello@revana.com', location: 'Spaces for a considered life.', demo: true };
-export const images = {
- hero: '/images/TVmOECqaylVELOjBp3GpIkXwzc.jpeg', office: '/images/HK63j7s4jYOIojOjCXofMUgi0E.jpeg', contact: '/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg',
- strip: ['gOi8RRN6gm63ZSNiafMOAGTjCw4.jpeg','hDLlxRe1MZ4E7ZysGXNW40MXBtM.jpeg','J6fdndgRdswuaC2xuJdmb3Ehq0w.jpeg','ci72VQy0ylEs9EyxtuTSsvrt2FU.jpeg','bcUhnpQGc0KMvZPB8BhsyqSZ9w.jpeg','kNFZjriD4tmMjtXQ4EwCP4iDhMU.jpeg'].map(x=>'/images/'+x)
+const photo = (name: string) => `/images/ashwiinii/${name}.webp`;
+
+export const studio = {
+  name: 'Interiors by Ashwiinii Dongare',
+  designer: 'Ashwiinii Dongare',
+  preloaderName: 'Ashwiinii Dongare',
+  tagline: 'Vision To Realty',
+  email: 'bizz.shd@gmail.com',
+  phone: '+91 72197 24437',
+  phoneHref: 'tel:+917219724437',
+  location: 'Nyati Emporius, Baner, Pune 411045',
+  founded: 2019,
+  mark: photo('cropped-Picture1'),
+  founderImage: photo('DSC00160'),
+  website: 'https://ashwiiniidongare.com/',
 };
-export const projects = [
- {slug:'willow-house',title:'Willow House',summary:'Soft, serene interiors for relaxed family living.',year:2025,category:'Interior design',cover:'/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg',alt:'White waterfront residence with palm trees and a reflecting pool',intro:'A slower rhythm, a lighter home.',description:'An open, sunlit residence shaped around the simple pleasures of family life. Soft textures, quiet tones, and a natural connection to the water create a home with room to breathe.',challenge:'Finding balance in the everyday.',challengeBody:'The design brings private retreats and shared gathering places into balance. A restrained palette of stone, oak, and natural textiles connects each space while carefully integrated storage keeps daily life effortless.',outcome:'Designed to be lived in.',outcomeBody:'The result is a warm, layered home that changes beautifully with the light. Every material and detail supports a comfortable, enduring way of living.',related:['terra-garden','loft-line']},
- {slug:'terra-garden',title:'Terra Garden',summary:'A living landscape, rooted in nature.',year:2024,category:'Home renovation',cover:'/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg',alt:'Lush green space with an orange chair and an open garden view',intro:'Where the inside meets the outside.',description:'A fresh perspective on garden living, blending generous planting with inviting places to pause. This imagined retreat explores the relationship between natural color, texture, and everyday ritual.',challenge:'Letting nature lead.',challengeBody:'Planting, sunlight, and circulation informed the layout. Durable materials and a clear spatial rhythm allow the landscape to feel abundant without becoming overwhelming.',outcome:'A little closer to nature.',outcomeBody:'A calm, expressive space that invites the seasons in. Layers of green soften the architecture and create a welcoming backdrop to everyday life.',related:['loft-line','stonebay-bath']},
- {slug:'loft-line',title:'Loft & Line',summary:'A thoughtful take on modern city living.',year:2025,category:'Home renovation',cover:'/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg',alt:'Warm yellow and cream living room with a curved timber partition',intro:'Space to live your own way.',description:'A flexible city home with a warm material palette and an effortless flow. Architectural lines and carefully chosen furniture give this loft a distinctive, quietly confident character.',challenge:'Making every line count.',challengeBody:'A curved divider creates intimate zones without closing down the space. Integrated storage, adaptable furniture, and layered lighting help each area work throughout the day.',outcome:'Less clutter. More possibility.',outcomeBody:'An expressive home that makes room for work, rest, and company. Soft seating and natural timber bring a human warmth to the open plan.',related:['stonebay-bath','terra-garden']},
- {slug:'stonebay-bath',title:'Stonebay Bath',summary:'An everyday ritual, beautifully reimagined.',year:2022,category:'Interior design',cover:'/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg',alt:'Terracotta vaulted bathroom with sculptural bathtub and warm natural light',intro:'A sanctuary in warm earth tones.',description:'Sculptural forms, textured surfaces, and soft light turn a functional room into a space for restoration. An intimate exploration of material, atmosphere, and comfort.',challenge:'Comfort in every detail.',challengeBody:'The design brings natural finishes into a demanding environment. Carefully selected stone and plaster are paired with considered lighting and practical storage.',outcome:'A daily moment of calm.',outcomeBody:'Warm, tactile, and quietly dramatic. A simple bathing ritual becomes an experience shaped by light, proportion, and beautifully resolved details.',related:['willow-house','loft-line']}
+
+export const socials = [
+  { name: 'Instagram', handle: '@interiorsbyashwiiniidongare', url: 'https://www.instagram.com/interiorsbyashwiiniidongare/' },
+  { name: 'Facebook', handle: 'Interiors by Ashwiinii Dongare', url: 'https://www.facebook.com/interiorsbyashwiiniidongare/' },
+  { name: 'LinkedIn', handle: 'Ashwiinii Dongare', url: 'https://www.linkedin.com/in/ashwiinii-dongare-231a816b/' },
+  { name: 'YouTube', handle: '@interiorsbyashwiiniidongare', url: 'https://www.youtube.com/@interiorsbyashwiiniidongare' },
 ];
-export const services=[{title:'Interior Design',image:'/images/HoegPOFwXc9X3BusWubuSMLPN4.jpeg',text:'Considered layouts, tactile materials, and the finishing touches that make a space feel entirely yours.'},{title:'Landscape Design',image:'/images/tQ12AFOnJwlZs5f0ccHmKleX4.jpeg',text:'Living landscapes that bring you closer to nature, with thoughtful planting and spaces to gather.'},{title:'Home Remodeling',image:'/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg',text:'A fresh chapter for your home. We reimagine existing spaces around the way you want to live.'},{title:'Custom Furniture',image:images.strip[4],text:'Purposeful pieces, made for your space. Distinctive forms meet honest materials and enduring craftsmanship.'}];
-export const faqs=[['Can you work with my chosen contractor?','Yes. The studio can collaborate with your preferred team or help you identify the right partners for your project.'],['Is there a minimum project size?','Every space has potential. Share your scope and budget during an initial conversation to explore a suitable approach.'],['How do I start a project?','Tell us a little about your space, your ideas, and your timeline using the enquiry form below.'],['Do you design interiors and outdoor spaces?','Our demonstration portfolio spans interiors, landscape design, home remodeling, and custom furniture.'],['How involved will I be in the process?','A collaborative process makes space for your feedback at each stage, from the first concept to the final details.'],['How long does a typical project take?','Timing depends on scope, approvals, and construction. A realistic schedule is agreed after an initial consultation.']];
+
+export const studioCopy = {
+  headline: 'A house isn’t just a house — it’s a reflection of who you are.',
+  introduction: 'At Interiors by Ashwiinii Dongare, we’re all about ensuring every bit of a home reflects the personality and style of the people living there. By designing your house with dedication and skill, we ensure each corner of your living space echoes the quality of a house that’s designed well and a place you can call home.',
+  mission: 'We create functional and aesthetically pleasing spaces that reflect your personality, meet your needs, and bring your vision to life — from full home interior design to execution.',
+  team: 'Our team consists of highly skilled and experienced interior designers, architects, and artisans who share our passion for creating exceptional living spaces. Every project we undertake is a collaboration, where we consider your preferences and ensure every aspect of the design is personalized and executed with the utmost precision.',
+  founder: [
+    'Ashwiinii Dongare is the founder, CEO, and Principal Designer of Interiors by Ashwiinii Dongare. A Pune University graduate, she started her own interior design firm in 2019.',
+    'Raised in a middle-class family in Khokarmoha, a rural community in Beed, Maharashtra, Ashwiinii developed a passion for drawing and sketching and dreamed of becoming an architect. When she was unable to gain admission to architecture after Class 12, she pursued engineering. Alongside her engineering studies, she invested in her passion for interior design and earned a diploma in the field.',
+    'With Ashwiinii’s vision and a passionate team, we are committed to bringing our clients’ visions to life and creating beautiful, functional, and personalized living spaces. Our biggest desire is to transform your home into a vibrant, comfortable, and luxurious space that reflects your personality.',
+    'Her approach brings function and aesthetics together, with attention to sustainable and universal design. She gives every client personal attention to understand their needs, preferences, and way of living.',
+    'Based in Pune, the firm specializes in residential interiors and turnkey project management — full home interior design to execution.',
+  ],
+};
+
+export const images = {
+  hero: '/images/ashwiinii/herosection.jpg',
+  heroAlt: 'Monochrome living room with a curved slatted ceiling, sectional sofa, lounge chair, and low coffee table',
+  living: photo('InShot_20221117_103600123-scaled'),
+  office: photo('photo-output-46'),
+  contact: photo('photo-output-5-scaled'),
+  about: photo('photo-output-52'),
+  works: photo('Screen-Shot-2022-11-24-at-4.03.13-PM'),
+  strip: ['photo-output-46', 'InShot_20221116_222935127', 'photo-output-30', 'photo-output-66', 'photo-output-5-scaled', 'InShot_20221116_224713646'].map(photo),
+};
+
+// Gallery collections, not invented client names or completed-project claims.
+// Existing case-study URLs are retained so previous links keep working.
+export const projects = [
+  { slug: 'willow-house', title: 'Living & Dining', summary: 'Welcoming Indian homes, made for everyday togetherness.', category: 'Residential interiors', cover: photo('InShot_20221117_103600123-scaled'), alt: 'Pink sofa, white wall panelling and brass details in an Indian living room by Ashwiinii Dongare',
+    intro: 'A home that feels like you.', description: 'Our living spaces begin with the people who use them. Seating, circulation, storage, and finishes are considered together to create a home that balances comfort, personality, and beauty.', challenge: 'Room for the way you live.', challengeBody: 'From family time to entertaining guests, a living and dining space needs to feel welcoming and work effortlessly. Our approach brings together furniture planning, layered lighting, thoughtful storage, and a palette shaped around your preferences.', outcome: 'Personal, practical, beautifully connected.', outcomeBody: 'Explore living and dining photographs from the studio’s published portfolio. Each image offers a closer look at the relationship between materials, detail, and everyday use.',
+    gallery: ['photo-output-46', 'InShot_20221116_222935127', 'InShot_20221116_204334390', 'photo-output-52'].map(photo), related: ['loft-line', 'stonebay-bath'] },
+  { slug: 'terra-garden', title: 'Bedrooms & Retreats', summary: 'Restful spaces with comfort and personality at their heart.', category: 'Bedroom design', cover: photo('InShot_20221116_224713646'), alt: 'Indian bedroom with a teal panelled wall, upholstered bed and warm bedside lighting',
+    intro: 'Your own place to unwind.', description: 'A bedroom should feel comfortable, personal, and easy to live in. Soft textures, considered lighting, and a useful layout create a retreat shaped around your daily routine.', challenge: 'Comfort, without compromise.', challengeBody: 'We consider storage, movement, daylight, and the details that make a room feel personal. From wardrobes to a quiet study corner, each element has a purpose.', outcome: 'Designed around your everyday rituals.', outcomeBody: 'This collection brings together bedroom photographs from the studio’s public gallery, showing different palettes, furniture arrangements, and approaches to storage.',
+    gallery: ['photo-output-66', 'InShot_20221116_230229838', 'photo-output-68', 'InShot_20221116_220205784'].map(photo), related: ['loft-line', 'willow-house'] },
+  { slug: 'loft-line', title: 'Kitchens & Storage', summary: 'Considered layouts and crafted storage for real Indian homes.', category: 'Space planning & furniture', cover: photo('photo-output-30'), alt: 'Modular Indian kitchen with dark countertops, glass cabinetry and an integrated chimney',
+    intro: 'Beautiful spaces that work harder.', description: 'Good design makes everyday life easier. We plan kitchens, wardrobes, and built-in furniture around the space available and the needs of the people using them.', challenge: 'Every detail has a job.', challengeBody: 'Practical layouts, accessible storage, suitable materials, and carefully resolved finishes work together. We coordinate the details from the design stage through execution.', outcome: 'Function, thoughtfully integrated.', outcomeBody: 'Explore kitchen and storage details from the studio’s gallery, including fitted cabinetry, dressing areas, and integrated home workspaces.',
+    gallery: ['InShot_20221116_210153702', 'photo-output-10-scaled', 'photo-output-9-scaled', 'photo-output-66-scaled'].map(photo), related: ['terra-garden', 'stonebay-bath'] },
+  { slug: 'stonebay-bath', title: 'Details & Finishes', summary: 'The materials, lighting, and personal touches that make a home.', category: 'Interior styling & execution', cover: photo('photo-output-5-scaled'), alt: 'Warm Indian bedroom with a carved jali partition, upholstered bed and personal decorative details',
+    intro: 'A home is in the details.', description: 'Materials and finishing touches bring a space together. We take care with colour, texture, lighting, and craftsmanship so that the result feels cohesive and personal.', challenge: 'From the first sketch to the final finish.', challengeBody: 'Our team connects design intent with careful execution. Attention to proportion, material selection, and installation helps every corner feel considered.', outcome: 'Your vision, brought to life.', outcomeBody: 'A selection of photographs from the studio’s public portfolio, highlighting decorative partitions, furniture finishes, lighting, and the details that give a home its identity.',
+    gallery: ['photo-output-3-scaled', 'photo-output-9-scaled', 'InShot_20221116_214854625', 'InShot_20221117_110134399'].map(photo), related: ['willow-house', 'terra-garden'] },
+];
+
+export const services = [
+  { title: 'Interior Design', image: images.living, text: 'Personalized residential interiors, from space planning and material selection to lighting, furnishings, and the details that make your home feel like you.' },
+  { title: 'Turnkey Projects', image: images.office, text: 'Full home interior design to execution. We bring the design, materials, craftspeople, and project coordination together for a cohesive result.' },
+  { title: 'Home Remodeling', image: images.works, text: 'A fresh perspective on your existing home, with practical layouts, considered storage, and finishes that reflect your personality and needs.' },
+  { title: 'Custom Furniture', image: photo('photo-output-30'), text: 'Furniture, cabinetry, wardrobes, and storage shaped around your space — combining useful details with a personal sense of style.' },
+];
+
+export const faqs = [
+  ['Can you work with my chosen contractor?', 'We can discuss coordination with your preferred contractor during your consultation. For turnkey projects, our team brings design and execution together.'],
+  ['Is there a minimum project size?', 'Tell us about your home, scope, and budget. We will discuss a suitable approach based on your needs.'],
+  ['How do I start a project?', 'Tell us a little about your space, your ideas, and your timeline. You can call us, email us, or get in touch through our social profiles.'],
+  ['Do you handle full home design and execution?', 'Yes. We specialize in residential interiors and turnkey project management, taking your home from interior design through to execution.'],
+  ['How involved will I be in the process?', 'Your home should reflect you. We take time to understand your needs and preferences and work collaboratively through the design process.'],
+  ['How long does a typical project take?', 'Timing depends on the scope, approvals, material availability, and execution requirements. We discuss a realistic schedule after understanding your project.'],
+];

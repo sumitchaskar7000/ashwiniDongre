@@ -1,1 +1,25 @@
-{"name":"revana-studio","version":"1.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","typecheck":"tsc --noEmit"},"dependencies":{"motion":"^12.23.0","next":"^16.4.1","react":"^19.3.1","react-dom":"^19.3.1"},"devDependencies":{"@types/node":"^22.0.0","@types/react":"^19.1.0","@types/react-dom":"^19.1.0","typescript":"^5.9.0"}}
+{
+  "name": "interiors-by-ashwiinii-dongare",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "motion": "^12.23.0",
+    "next": "^16.4.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.9.0"
+  }
+}
