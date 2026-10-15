@@ -1,0 +1,702 @@
+{
+  "assets": [
+    {
+      "url": "https://framerusercontent.com/images/TVmOECqaylVELOjBp3GpIkXwzc.jpeg",
+      "alt": "Architecture",
+      "path": "/images/TVmOECqaylVELOjBp3GpIkXwzc.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gOi8RRN6gm63ZSNiafMOAGTjCw4.jpeg",
+      "alt": null,
+      "path": "/images/gOi8RRN6gm63ZSNiafMOAGTjCw4.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/hDLlxRe1MZ4E7ZysGXNW40MXBtM.jpeg",
+      "alt": "Office",
+      "path": "/images/hDLlxRe1MZ4E7ZysGXNW40MXBtM.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/J6fdndgRdswuaC2xuJdmb3Ehq0w.jpeg",
+      "alt": "Office",
+      "path": "/images/J6fdndgRdswuaC2xuJdmb3Ehq0w.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/ci72VQy0ylEs9EyxtuTSsvrt2FU.jpeg",
+      "alt": "Worker in Office",
+      "path": "/images/ci72VQy0ylEs9EyxtuTSsvrt2FU.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/bcUhnpQGc0KMvZPB8BhsyqSZ9w.jpeg",
+      "alt": null,
+      "path": "/images/bcUhnpQGc0KMvZPB8BhsyqSZ9w.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/kNFZjriD4tmMjtXQ4EwCP4iDhMU.jpeg",
+      "alt": "Office",
+      "path": "/images/kNFZjriD4tmMjtXQ4EwCP4iDhMU.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+      "alt": "Room",
+      "path": "/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+      "alt": "Garden",
+      "path": "/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+      "alt": "Room",
+      "path": "/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+      "alt": "Bathroom",
+      "path": "/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/HoegPOFwXc9X3BusWubuSMLPN4.jpeg",
+      "alt": "Living room",
+      "path": "/images/HoegPOFwXc9X3BusWubuSMLPN4.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/tQ12AFOnJwlZs5f0ccHmKleX4.jpeg",
+      "alt": null,
+      "path": "/images/tQ12AFOnJwlZs5f0ccHmKleX4.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg",
+      "alt": null,
+      "path": "/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/YKMsff4HaXzezB6Frbb7BcHwhzY.jpeg",
+      "alt": null,
+      "path": "/images/YKMsff4HaXzezB6Frbb7BcHwhzY.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/6c3VbVxuQQTSVktyq9H6q3O2CEY.jpeg",
+      "alt": null,
+      "path": "/images/6c3VbVxuQQTSVktyq9H6q3O2CEY.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Mb7dbQTliyCP8AqxrHCRpEkKrQs.jpeg",
+      "alt": null,
+      "path": "/images/Mb7dbQTliyCP8AqxrHCRpEkKrQs.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/HK63j7s4jYOIojOjCXofMUgi0E.jpeg",
+      "alt": "Office",
+      "path": "/images/HK63j7s4jYOIojOjCXofMUgi0E.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg",
+      "alt": null,
+      "path": "/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+      "alt": null,
+      "path": "/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/BiwEAlUgxlWenPTR59tawYbtXfs.jpeg",
+      "alt": "Office",
+      "path": "/images/BiwEAlUgxlWenPTR59tawYbtXfs.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/5Q3Nwm8IwAbSZ2nobSUWNf2HTg.jpeg",
+      "alt": "worker",
+      "path": "/images/5Q3Nwm8IwAbSZ2nobSUWNf2HTg.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/KdGLDtQm3n9cSWjYnz4uzwWadaA.jpeg",
+      "alt": "worker",
+      "path": "/images/KdGLDtQm3n9cSWjYnz4uzwWadaA.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/FT8McDkqZ0EqvoV4ASJkVjpA.jpeg",
+      "alt": "worker",
+      "path": "/images/FT8McDkqZ0EqvoV4ASJkVjpA.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/MUeZo44APUwzEbSgfPSPJ2ARgxk.jpeg",
+      "alt": "worker",
+      "path": "/images/MUeZo44APUwzEbSgfPSPJ2ARgxk.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/cQ8l4pGcuvNB0qYzLs6wULp62Bw.png",
+      "alt": null,
+      "path": "/images/cQ8l4pGcuvNB0qYzLs6wULp62Bw.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/eqWNA50RYTZRxX8VlyviRhjcfk.png",
+      "alt": null,
+      "path": "/images/eqWNA50RYTZRxX8VlyviRhjcfk.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/9umOG0l9fS8BdjCBhz0tha7STrY.png",
+      "alt": null,
+      "path": "/images/9umOG0l9fS8BdjCBhz0tha7STrY.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/8SGmQXw1qVOEw4V913BKQFu5g.png",
+      "alt": null,
+      "path": "/images/8SGmQXw1qVOEw4V913BKQFu5g.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/qAvCSvTl7ZBFmZw0uqTqT0m6Bc.png",
+      "alt": null,
+      "path": "/images/qAvCSvTl7ZBFmZw0uqTqT0m6Bc.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/tX4LYcyp2h9xrfd5byAmJQluhk.png",
+      "alt": null,
+      "path": "/images/tX4LYcyp2h9xrfd5byAmJQluhk.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/cdgoVpLYsHMLXUYXbZEVBOtCEk.png",
+      "alt": "House",
+      "path": "/images/cdgoVpLYsHMLXUYXbZEVBOtCEk.png",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/XJCMhgxdg6Tp51Wri6u4hIEz7g.jpeg",
+      "alt": null,
+      "path": "/images/XJCMhgxdg6Tp51Wri6u4hIEz7g.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/UtUhEYehyYhn3AGWzsyhJ66eS4.jpeg",
+      "alt": null,
+      "path": "/images/UtUhEYehyYhn3AGWzsyhJ66eS4.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/V0Hn7hkVstptFJtFmI2iKEAjB4.jpeg",
+      "alt": null,
+      "path": "/images/V0Hn7hkVstptFJtFmI2iKEAjB4.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/oJHrunvFt8S6MpNetIMh1i2H0.jpeg",
+      "alt": null,
+      "path": "/images/oJHrunvFt8S6MpNetIMh1i2H0.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/09heAzFCck8t7tiJnrdVnq6Q2AU.jpeg",
+      "alt": null,
+      "path": "/images/09heAzFCck8t7tiJnrdVnq6Q2AU.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/aG4XpGJ4klputlT2FjY7extYfls.jpeg",
+      "alt": null,
+      "path": "/images/aG4XpGJ4klputlT2FjY7extYfls.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    },
+    {
+      "url": "https://framerusercontent.com/images/96ZqBY16pQ8sS6xKy09qJ4XguAk.jpeg",
+      "alt": null,
+      "path": "/images/96ZqBY16pQ8sS6xKy09qJ4XguAk.jpeg",
+      "focalPoint": "50% 50%",
+      "role": "reference demo photography"
+    }
+  ],
+  "pages": {
+    "home": [
+      {
+        "url": "https://framerusercontent.com/images/TVmOECqaylVELOjBp3GpIkXwzc.jpeg",
+        "alt": "Architecture",
+        "path": "/images/TVmOECqaylVELOjBp3GpIkXwzc.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/gOi8RRN6gm63ZSNiafMOAGTjCw4.jpeg",
+        "alt": "Office"
+      },
+      {
+        "url": "https://framerusercontent.com/images/hDLlxRe1MZ4E7ZysGXNW40MXBtM.jpeg",
+        "alt": "Office",
+        "path": "/images/hDLlxRe1MZ4E7ZysGXNW40MXBtM.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/J6fdndgRdswuaC2xuJdmb3Ehq0w.jpeg",
+        "alt": "Office",
+        "path": "/images/J6fdndgRdswuaC2xuJdmb3Ehq0w.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ci72VQy0ylEs9EyxtuTSsvrt2FU.jpeg",
+        "alt": "Worker in Office",
+        "path": "/images/ci72VQy0ylEs9EyxtuTSsvrt2FU.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/bcUhnpQGc0KMvZPB8BhsyqSZ9w.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kNFZjriD4tmMjtXQ4EwCP4iDhMU.jpeg",
+        "alt": "Office",
+        "path": "/images/kNFZjriD4tmMjtXQ4EwCP4iDhMU.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+        "alt": "Garden"
+      },
+      {
+        "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+        "alt": "Bathroom"
+      },
+      {
+        "url": "https://framerusercontent.com/images/HoegPOFwXc9X3BusWubuSMLPN4.jpeg",
+        "alt": "Living room",
+        "path": "/images/HoegPOFwXc9X3BusWubuSMLPN4.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tQ12AFOnJwlZs5f0ccHmKleX4.jpeg",
+        "alt": "Garden"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg",
+        "alt": "Dining room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YKMsff4HaXzezB6Frbb7BcHwhzY.jpeg",
+        "alt": null,
+        "path": "/images/YKMsff4HaXzezB6Frbb7BcHwhzY.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/6c3VbVxuQQTSVktyq9H6q3O2CEY.jpeg",
+        "alt": null,
+        "path": "/images/6c3VbVxuQQTSVktyq9H6q3O2CEY.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Mb7dbQTliyCP8AqxrHCRpEkKrQs.jpeg",
+        "alt": null,
+        "path": "/images/Mb7dbQTliyCP8AqxrHCRpEkKrQs.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+        "alt": "Back Arrow"
+      },
+      {
+        "url": "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+        "alt": "Next Arrow"
+      },
+      {
+        "url": "https://framerusercontent.com/images/HK63j7s4jYOIojOjCXofMUgi0E.jpeg",
+        "alt": "Office",
+        "path": "/images/HK63j7s4jYOIojOjCXofMUgi0E.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg",
+        "alt": "Architecture"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null
+      }
+    ],
+    "about": [
+      {
+        "url": "https://framerusercontent.com/images/BiwEAlUgxlWenPTR59tawYbtXfs.jpeg",
+        "alt": "Office",
+        "path": "/images/BiwEAlUgxlWenPTR59tawYbtXfs.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5Q3Nwm8IwAbSZ2nobSUWNf2HTg.jpeg",
+        "alt": "worker",
+        "path": "/images/5Q3Nwm8IwAbSZ2nobSUWNf2HTg.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KdGLDtQm3n9cSWjYnz4uzwWadaA.jpeg",
+        "alt": "worker",
+        "path": "/images/KdGLDtQm3n9cSWjYnz4uzwWadaA.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/FT8McDkqZ0EqvoV4ASJkVjpA.jpeg",
+        "alt": "worker",
+        "path": "/images/FT8McDkqZ0EqvoV4ASJkVjpA.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/MUeZo44APUwzEbSgfPSPJ2ARgxk.jpeg",
+        "alt": "worker",
+        "path": "/images/MUeZo44APUwzEbSgfPSPJ2ARgxk.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cQ8l4pGcuvNB0qYzLs6wULp62Bw.png",
+        "alt": null,
+        "path": "/images/cQ8l4pGcuvNB0qYzLs6wULp62Bw.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/eqWNA50RYTZRxX8VlyviRhjcfk.png",
+        "alt": null,
+        "path": "/images/eqWNA50RYTZRxX8VlyviRhjcfk.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/9umOG0l9fS8BdjCBhz0tha7STrY.png",
+        "alt": null,
+        "path": "/images/9umOG0l9fS8BdjCBhz0tha7STrY.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8SGmQXw1qVOEw4V913BKQFu5g.png",
+        "alt": null,
+        "path": "/images/8SGmQXw1qVOEw4V913BKQFu5g.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/qAvCSvTl7ZBFmZw0uqTqT0m6Bc.png",
+        "alt": null,
+        "path": "/images/qAvCSvTl7ZBFmZw0uqTqT0m6Bc.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tX4LYcyp2h9xrfd5byAmJQluhk.png",
+        "alt": null,
+        "path": "/images/tX4LYcyp2h9xrfd5byAmJQluhk.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg",
+        "alt": "Architecture"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null
+      }
+    ],
+    "works": [
+      {
+        "url": "https://framerusercontent.com/images/cdgoVpLYsHMLXUYXbZEVBOtCEk.png",
+        "alt": "House",
+        "path": "/images/cdgoVpLYsHMLXUYXbZEVBOtCEk.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+        "alt": "Garden"
+      },
+      {
+        "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+        "alt": "Bathroom"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null
+      }
+    ],
+    "willow-house": [
+      {
+        "url": "https://framerusercontent.com/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg",
+        "alt": null
+      },
+      {
+        "url": "https://framerusercontent.com/images/bcUhnpQGc0KMvZPB8BhsyqSZ9w.jpeg",
+        "alt": null,
+        "path": "/images/bcUhnpQGc0KMvZPB8BhsyqSZ9w.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XJCMhgxdg6Tp51Wri6u4hIEz7g.jpeg",
+        "alt": null
+      },
+      {
+        "url": "https://framerusercontent.com/images/UtUhEYehyYhn3AGWzsyhJ66eS4.jpeg",
+        "alt": null,
+        "path": "/images/UtUhEYehyYhn3AGWzsyhJ66eS4.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+        "alt": "Garden"
+      },
+      {
+        "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null
+      }
+    ],
+    "terra-garden": [
+      {
+        "url": "https://framerusercontent.com/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+        "alt": "Garden"
+      },
+      {
+        "url": "https://framerusercontent.com/images/V0Hn7hkVstptFJtFmI2iKEAjB4.jpeg",
+        "alt": null,
+        "path": "/images/V0Hn7hkVstptFJtFmI2iKEAjB4.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XJCMhgxdg6Tp51Wri6u4hIEz7g.jpeg",
+        "alt": null
+      },
+      {
+        "url": "https://framerusercontent.com/images/oJHrunvFt8S6MpNetIMh1i2H0.jpeg",
+        "alt": null,
+        "path": "/images/oJHrunvFt8S6MpNetIMh1i2H0.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tQ12AFOnJwlZs5f0ccHmKleX4.jpeg",
+        "alt": null,
+        "path": "/images/tQ12AFOnJwlZs5f0ccHmKleX4.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+        "alt": "Bathroom"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null
+      }
+    ],
+    "loft-line": [
+      {
+        "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "alt": "Room"
+      },
+      {
+        "url": "https://framerusercontent.com/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg",
+        "alt": null,
+        "path": "/images/FBF5rHJWXi5fqGg9y8hynEpMb4.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg",
+        "alt": null,
+        "path": "/images/KfUo5IxP34AqfaCoEtX80T5dJzs.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/09heAzFCck8t7tiJnrdVnq6Q2AU.jpeg",
+        "alt": null
+      },
+      {
+        "url": "https://framerusercontent.com/images/gOi8RRN6gm63ZSNiafMOAGTjCw4.jpeg",
+        "alt": null,
+        "path": "/images/gOi8RRN6gm63ZSNiafMOAGTjCw4.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+        "alt": "Bathroom"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+        "alt": "Garden",
+        "path": "/images/VzKuk7ACHo1MFSz2vbcmbtCCRU.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null
+      }
+    ],
+    "stonebay-bath": [
+      {
+        "url": "https://framerusercontent.com/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+        "alt": "Bathroom",
+        "path": "/images/C64AufeBTPMa9oPozmduCo4rxsQ.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XJCMhgxdg6Tp51Wri6u4hIEz7g.jpeg",
+        "alt": null,
+        "path": "/images/XJCMhgxdg6Tp51Wri6u4hIEz7g.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/aG4XpGJ4klputlT2FjY7extYfls.jpeg",
+        "alt": null,
+        "path": "/images/aG4XpGJ4klputlT2FjY7extYfls.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/96ZqBY16pQ8sS6xKy09qJ4XguAk.jpeg",
+        "alt": null,
+        "path": "/images/96ZqBY16pQ8sS6xKy09qJ4XguAk.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/09heAzFCck8t7tiJnrdVnq6Q2AU.jpeg",
+        "alt": null,
+        "path": "/images/09heAzFCck8t7tiJnrdVnq6Q2AU.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+        "alt": "Room",
+        "path": "/images/nLG3Mx7abt82bOzwzYQQaoW1fXM.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "alt": "Room",
+        "path": "/images/WeEuTLvFfXgsaR4RnOlAQDS14c.jpeg",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "alt": null,
+        "path": "/images/2uBYY8Z5EEfbKIrDhMMgTPWPY.png",
+        "focalPoint": "50% 50%",
+        "role": "reference demo photography"
+      }
+    ]
+  }
+}
